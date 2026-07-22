@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /glp-guide/
+
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://oliveroliver10816.github.io/glp-guide/sitemap.xml
